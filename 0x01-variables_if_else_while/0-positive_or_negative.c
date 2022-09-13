@@ -1,7 +1,12 @@
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
+/* added new headers */
+
 /**
- * main - Entery point
- * Description: goes here
- * Return: 0
+ * main - Entry point
+ * Description: Random numbers
+ * Return: zero
  */
 int main(void)
 {
