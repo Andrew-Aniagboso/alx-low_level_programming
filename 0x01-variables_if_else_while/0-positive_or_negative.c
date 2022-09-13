@@ -2,7 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 
-/**                                                * main - print if the number is positive, zero, or negative
+/** main - print if the numb
+ * Description: print number
  * Return: zero
  */
 int main(void)
