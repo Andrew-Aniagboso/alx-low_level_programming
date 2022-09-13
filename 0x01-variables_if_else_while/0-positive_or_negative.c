@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/** main - print if the numb
+/**main - print if the numb
  * Description: print number
  * Return: zero
  */
